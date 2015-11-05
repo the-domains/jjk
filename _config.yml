@@ -1,0 +1,23 @@
+name: JJK
+favicon: null
+layout_spectrum: 0.12568716029636562
+typography_spectrum: 0.12082445924170315
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9258310915902257
+  lightness: 0.9209468439221382
+  saturation: 0.3641509769950062
+  rhythmicContrast: 0.23187844431959093
+purpose: []
